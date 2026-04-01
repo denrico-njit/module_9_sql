@@ -122,8 +122,8 @@ You should see a success message.
 Now you can safely clone the course project:
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/denrico-njit/module_9_sql
+cd module_9_sql
 ```
 
 ---
@@ -211,20 +211,6 @@ python main.py
 ```bash
 docker run -it --rm <image-name>
 ```
-
----
-
-# 📝 7. Submission Instructions
-
-After finishing your work:
-
-```bash
-git add .
-git commit -m "Complete Module X"
-git push origin main
-```
-
-Then submit the GitHub repository link as instructed.
 
 ---
 
